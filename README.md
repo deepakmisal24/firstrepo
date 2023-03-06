@@ -7,7 +7,7 @@ Fork: Fork is an operation been perform over the projects as real big projects c
 2) Clone
 Clone: When we create a new repository on GitHub or Any repository on Github, it exists as a remote location where our / any other repository is stored. Cloning a repository creates a local copy on our computer so that we can sync between both the local and remote locations of the repository.
 
-3)Licenses
+3) Licenses
 
 3.1) MIT
 The MIT License, which is meant to be extremely straightforward and open. It permits users to do anything with a given project as long as they credit the developer and don’t hold him or her liable for the project’s use.
